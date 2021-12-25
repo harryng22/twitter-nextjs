@@ -13,7 +13,7 @@ const firebaseConfig = {
   projectId: "twitter-nextjs-72b45",
   storageBucket: "twitter-nextjs-72b45.appspot.com",
   messagingSenderId: "719696211387",
-  appId: "1:719696211387:web:010996efce94fa9492a89e",
+  appId: "1:719696211387:web:010996efce94fa9492a89e"
 };
 
 // Initialize Firebase
